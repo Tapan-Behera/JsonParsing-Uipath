@@ -1,0 +1,40 @@
+[
+    {
+        "FirstName": "John",
+        "LastName": "Smith",
+        "Age": 31,
+        "Address":
+        {
+            "StreetAddress": "21 2nd Street",
+            "City": "New York",
+            "State": "NY",
+            "PostalCode":"10021"
+        },
+        "PhoneNumber":
+        [
+            {
+                "Type":"Home",
+                "Number":"212 555-1234"
+            }
+        ]
+    },
+    {
+        "FirstName": "Javed",
+        "LastName": "Doe",
+        "Age": 31,
+        "Address":
+        {
+            "StreetAddress": "21 2nd Street",
+            "City": "New York",
+            "State": "NY",
+            "PostalCode":"10021"
+        },
+        "PhoneNumber":
+        [
+            {
+                "Type":"Home",
+                "Number":"212 555-1234"
+            }
+        ]
+    }
+]
